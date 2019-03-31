@@ -1,9 +1,10 @@
 module.exports = {
   pathPrefix: '/marievcarter.github.io',
   siteMetadata: {
-    title: 'Gatsby Starter - Dimension V2',
-    author: 'Hunter Chang',
-    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
+    title: 'Marie Carter | Home',
+    author: 'Marie Carter',
+    description:
+      'Portfolio based on Dimension by HTML5 UP, built with Gatsby.js.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
